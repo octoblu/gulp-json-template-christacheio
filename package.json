@@ -1,0 +1,35 @@
+{
+  "name": "gulp-json-template-christacheio",
+  "version": "1.0.0",
+  "description": "\"Template your json files in gulp really, really easily\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "christacheio": "^2.2.0",
+    "coffee-script": "^1.10.0",
+    "lodash": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/gulp-json-template-christacheio.git"
+  },
+  "keywords": [
+    "gulp",
+    "json",
+    "octoblu",
+    "meshblu",
+    "template"
+  ],
+  "author": "redaphid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/gulp-json-template-christacheio/issues"
+  },
+  "homepage": "https://github.com/octoblu/gulp-json-template-christacheio#readme"
+}
